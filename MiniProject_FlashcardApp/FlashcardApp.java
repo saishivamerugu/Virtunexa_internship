@@ -63,7 +63,8 @@ class FlashcardApp {
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.println("--------------------------------");
-            System.out.println("\nFlashcard Application Menu:");
+            System.out.println("");
+            System.out.println("Flashcard Application Menu:");
             System.out.println("--------------------------------");
             System.out.println("1. Create a new flashcard");
             System.out.println("2. View all flashcards");
